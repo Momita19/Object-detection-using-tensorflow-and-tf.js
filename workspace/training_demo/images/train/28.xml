@@ -1,0 +1,26 @@
+<annotation>
+	<folder>10,20,30</folder>
+	<filename>IMG_20200228_122225.jpg</filename>
+	<path>C:\Users\dell\Desktop\Anew\Tensorflow\workspace\training_demo\images\connector C01 test data\10,20,30\IMG_20200228_122225.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1824</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Connector</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>1683</ymin>
+			<xmax>1260</xmax>
+			<ymax>3033</ymax>
+		</bndbox>
+	</object>
+</annotation>
